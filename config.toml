@@ -1,0 +1,24 @@
+baseURL = "https://serpente.solder.party/"
+languageCode = "en-us"
+title = 'Serpente Docs'
+theme = 'book'
+disableKinds = ['taxonomy', 'taxonomyTerm']
+
+disablePathToLower = true
+enableGitInfo = true
+
+# pygmentsStyle = 'monokailight'
+pygmentsCodeFences = true
+
+[params]
+  BookToC = 3
+  BookMenuBundle = '/menu'
+  BookSection = 'docs'
+  BookRepo = 'https://github.com/arturo182/serpente_www'
+  BookEditPath = 'edit/master/content'
+  BookDateFormat = 'Jan 2, 2006'
+  BookSearch = true
+  
+[params.footer]
+	copyright = "[arturo182](https://twitter.com/arturo182)"
+	show_powered_by = true

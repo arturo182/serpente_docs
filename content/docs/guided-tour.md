@@ -8,9 +8,9 @@ type: docs
 Let's have a quick look at the boards and what's on them. Both boards have the same components except the USB connectors.
 
 {{< columns >}}
-[![Serpente Plug](/tour_plug_small.jpg)](/tour_plug.jpg)
+[![Serpente Plug](/tour_plug.jpg)](/tour_plug.jpg)
 <--->
-[![Serpente Type-C](/tour_type_c_small.jpg)](/tour_type_c.jpg)
+[![Serpente Type-C](/tour_type_c.jpg)](/tour_type_c.jpg)
 {{< /columns >}}
 
 - **USB A / USB Type-C Connector** - Two options to choose from, use the one that works best for you! USB is used for both data and power. The Type-C connector supports only USB 2.0 signals and is hardwired to be a Sink only.

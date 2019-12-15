@@ -1,10 +1,11 @@
 ---
 title: Pinout
 type: docs
+rev: r2
 ---
 
 # Pinout
 
-[![Pinout](/pinout_small.png)](/pinout.png)
+[![Pinout](/r2/pinout_small.png)](/r2/pinout.png)
 
 Click for a (lot) larger version.

@@ -1,6 +1,7 @@
 ---
 title: Downloads
 type: docs
+rev: r2
 ---
 
 # Downloads
@@ -16,10 +17,28 @@ The Serpente boards come with [UF2 Bootloader](https://github.com/microsoft/uf2-
 
 ## Schematics
 
-### Serpente Type-C
+### Serpente
 
-[![Schematic](/schematics_serpente.png)](/schematics_serpente.png)
+[![Schematic](/r2/schematics_serpente.png)](/r2/schematics_serpente.png)
 
 ### Serpente Plug
 
-[![Schematic Plug](/schematics_plug.png)](/schematics_plug.png)
+[![Schematic Plug](/r2/schematics_plug.png)](/r2/schematics_plug.png)
+
+### Serpente Plug C
+
+[![Schematic Plug](/r2/schematics_plug_c.png)](/r2/schematics_plug_c.png)
+
+## Drawings
+
+### Serpente
+
+[![Drawing](/r2/drawing_serpente.png)](/r2/drawing_serpente.png)
+
+### Serpente Plug
+
+[![Drawing Plug](/r2/drawing_plug.png)](/r2/drawing_plug.png)
+
+### Serpente Plug C
+
+[![Drawing Plug](/r2/drawing_plug_c.png)](/r2/drawing_plug_c.png)

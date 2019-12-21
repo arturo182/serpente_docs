@@ -7,3 +7,4 @@ headless: true
 - [Pinout]({{< relref "/r2/docs/pinout.md" >}})
 - [GPIO Configurations]({{< relref "/r2/docs/gpios.md" >}})
 - [Downloads]({{< relref "/r2/docs/downloads.md" >}})
+- [License Info]({{< relref "/r2/docs/licenses.md" >}})
